@@ -780,3 +780,9 @@ Output
 
 ```cobol
 （ここに対象の COBOL プログラムを貼る）
+
+
+@prompts/cobol-explainer.md
+
+以下の COBOL プログラムをこの指示に従って解説して。
+@src/target.cob
